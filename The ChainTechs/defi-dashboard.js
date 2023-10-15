@@ -42,5 +42,5 @@ function renderDashboard() {
 
   document.querySelector("body").innerHTML = html;
 }
-
+//here we rander DashBoard
 renderDashboard();
